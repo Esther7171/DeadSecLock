@@ -1,3 +1,6 @@
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmU4ZjMzYWYtOWRjMi00ODM2LWFkMGQtOWIxODM1YmQzYjQz%40thread.v2/0?context=%7b%22Tid%22%3a%222e162436-5a8a-4624-a102-a78fabd47ad2%22%2c%22Oid%22%3a%225438eb08-43cf-4fee-9652-0ef5cff82f16%22%7d
+
+
 <!-- DeadSecLock Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a90dec8c-cab6-492d-aff5-d6943124fbab" alt="DeadSecLock Banner" width="400"/>
