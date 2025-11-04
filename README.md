@@ -1,4 +1,10 @@
-
+```
+   C:\DLP\
+   ├── dlp_marker_gui.py
+   ├── dlp_monitor_service.py
+   └── templates\
+       └── dashboard.html
+```
 
 <!-- DeadSecLock Banner -->
 <p align="center">
